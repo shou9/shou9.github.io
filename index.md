@@ -14,7 +14,7 @@ Email: sho.otao★ml.ist.i.kyoto-u.ac.jp / shou9014★gmail.com (Please replace 
 # Experiences
 - Research Assistant, Kyoto University, 2022/04 ~ Present
 - Research Internship, NTT Communication Science Laboratories, 2022/08 ~ 2022/09
-- Machine Learning Engineer Intern, Rist, 2021/10 ~ 2022/03
+- Machine Learning Engineer Internship, Rist, 2021/10 ~ 2022/03
 
 # Awards
 - [Superior Student Award](https://www.sice.jp/wp-content/uploads/file/sice_superior_student_award_2021.pdf), SICE, 2021
