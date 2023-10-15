@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+title: Sho Otao
+plugins:
+  - jekyll-sitemap
