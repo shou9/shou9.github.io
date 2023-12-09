@@ -5,7 +5,7 @@ Research Interest: Optimal transport, Natural language processing
 Email: sho.otao★ml.ist.i.kyoto-u.ac.jp / shou9014★gmail.com (Please replace ★ with @)
 
 # Publication
-- <u>Sho Otao</u>, Makoto Yamada. A linear time approximation of Wasserstein distance with word embedding selection. **EMNLP 2023 (Main)**
+- <u>Sho Otao</u>, Makoto Yamada. ［A linear time approximation of Wasserstein distance with word embedding selection.］(https://aclanthology.org/2023.emnlp-main.935/) **EMNLP 2023 (Main)**
 
 # Education
 - Master of Informatics, Kyoto University, 2022/04 ~ Present
